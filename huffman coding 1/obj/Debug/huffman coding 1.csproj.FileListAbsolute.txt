@@ -1,0 +1,9 @@
+C:\Users\Dell-PC\Desktop\huffman coding 1\huffman coding 1\bin\Debug\huffman coding 1.exe.config
+C:\Users\Dell-PC\Desktop\huffman coding 1\huffman coding 1\bin\Debug\huffman coding 1.exe
+C:\Users\Dell-PC\Desktop\huffman coding 1\huffman coding 1\bin\Debug\huffman coding 1.pdb
+C:\Users\Dell-PC\Desktop\huffman coding 1\huffman coding 1\obj\Debug\huffman coding 1.csprojResolveAssemblyReference.cache
+C:\Users\Dell-PC\Desktop\huffman coding 1\huffman coding 1\obj\Debug\huffman_coding_1.Form1.resources
+C:\Users\Dell-PC\Desktop\huffman coding 1\huffman coding 1\obj\Debug\huffman_coding_1.Properties.Resources.resources
+C:\Users\Dell-PC\Desktop\huffman coding 1\huffman coding 1\obj\Debug\huffman coding 1.csproj.GenerateResource.Cache
+C:\Users\Dell-PC\Desktop\huffman coding 1\huffman coding 1\obj\Debug\huffman coding 1.exe
+C:\Users\Dell-PC\Desktop\huffman coding 1\huffman coding 1\obj\Debug\huffman coding 1.pdb
