@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
 using System.IO;
-
+using System.Drawing;
+using System.Drawing.Drawing2D;
 
 namespace huffman_coding_1
 {
@@ -111,6 +112,12 @@ namespace huffman_coding_1
                     flag = true;
                 }
             }
+        }
+        public Image Draw()
+        {
+            GC.Collect();// collects the unreffered locations on the memory
+            int temp;
+            return Root == null ? null : Root.Draw(out temp);
         }
         
     }

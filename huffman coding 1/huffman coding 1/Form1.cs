@@ -11,9 +11,10 @@ using System.IO;
 using System.Collections;
 
 namespace huffman_coding_1
-{
+{   
     public partial class Form1 : Form
     {
+        public static HuffmanTree tree;
         public Form1()
         {
             InitializeComponent();
@@ -28,13 +29,14 @@ namespace huffman_coding_1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
             StreamWriter wr = new StreamWriter("message.txt");
             wr.WriteLine(textBox1.Text);
             wr.Close();
             
             string input = File.ReadAllText("message.txt").Replace("\r\n","");
             
-            HuffmanTree tree = new HuffmanTree();
+             tree = new HuffmanTree();
 
             tree.setDict(input);
 
@@ -70,6 +72,7 @@ namespace huffman_coding_1
             string compressionrate = "Total number of character in original text " + input.Length.ToString() + "@Bits required in original text " + inp.ToString() + "@Total bits required after compression "+compr.ToString() + "@Rate of compression " + (100-(compr/inp)*100).ToString() + "%";
             compressionrate = compressionrate.Replace("@",System.Environment.NewLine);
             textBox5.Text=(compressionrate);
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -80,6 +83,38 @@ namespace huffman_coding_1
         private void label3_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            
+            Form2 f = new Form2();
+            f.Show();
         }
     }
 }
