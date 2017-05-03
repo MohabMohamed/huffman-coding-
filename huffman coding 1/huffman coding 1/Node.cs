@@ -94,7 +94,7 @@ namespace huffman_coding_1
             var g = Graphics.FromImage(result);
             g.SmoothingMode = SmoothingMode.HighQuality;
             g.FillRectangle(Brushes.White, new Rectangle(new Point(0, 0), resSize));
-            g.DrawImage(nodeBg, lSize.Width - nodeBg.Width / 2 + freeSpace.Width / 2, 0);
+            g.DrawImage(nodeBg, lSize.Width - nodeBg.Width * 2 + freeSpace.Width / 2, 0);
             if (Left == null && Right == null) ShowUpData += Data;
             var str = ShowUpData +" "+ Frequency.ToString();
            

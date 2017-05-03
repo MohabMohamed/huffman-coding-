@@ -26,3 +26,16 @@ C:\Users\mohab\Desktop\huffman coding 1\huffman coding 1\huffman coding 1\obj\De
 C:\Users\mohab\Desktop\huffman coding 1\huffman coding 1\huffman coding 1\obj\Debug\huffman_coding_1.Properties.Resources.resources
 C:\Users\mohab\Desktop\huffman coding 1\huffman coding 1\huffman coding 1\obj\Debug\huffman coding 1.csproj.GenerateResource.Cache
 C:\Users\mohab\Desktop\huffman coding 1\huffman coding 1\huffman coding 1\obj\Debug\huffman_coding_1.Form2.resources
+C:\Users\mohab\Desktop\New folder (2)\huffman coding 1\huffman coding 1\huffman coding 1\bin\Debug\huffman coding 1.exe.config
+C:\Users\mohab\Desktop\New folder (2)\huffman coding 1\huffman coding 1\huffman coding 1\obj\Debug\huffman coding 1.exe
+C:\Users\mohab\Desktop\New folder (2)\huffman coding 1\huffman coding 1\huffman coding 1\obj\Debug\huffman coding 1.pdb
+C:\Users\mohab\Desktop\complexity\New folder (7)\huffman coding 1\huffman coding 1\huffman coding 1\bin\Debug\huffman coding 1.exe.config
+C:\Users\mohab\Desktop\complexity\New folder (7)\huffman coding 1\huffman coding 1\huffman coding 1\obj\Debug\huffman coding 1.exe
+C:\Users\mohab\Desktop\complexity\New folder (7)\huffman coding 1\huffman coding 1\huffman coding 1\obj\Debug\huffman coding 1.pdb
+C:\Users\mohab\Desktop\complexity\New folder (7)\huffman coding 1\huffman coding 1\huffman coding 1\bin\Debug\huffman coding 1.exe
+C:\Users\mohab\Desktop\complexity\New folder (7)\huffman coding 1\huffman coding 1\huffman coding 1\bin\Debug\huffman coding 1.pdb
+C:\Users\mohab\Desktop\complexity\New folder (7)\huffman coding 1\huffman coding 1\huffman coding 1\obj\Debug\huffman coding 1.csprojResolveAssemblyReference.cache
+C:\Users\mohab\Desktop\complexity\New folder (7)\huffman coding 1\huffman coding 1\huffman coding 1\obj\Debug\huffman_coding_1.Form1.resources
+C:\Users\mohab\Desktop\complexity\New folder (7)\huffman coding 1\huffman coding 1\huffman coding 1\obj\Debug\huffman_coding_1.Form2.resources
+C:\Users\mohab\Desktop\complexity\New folder (7)\huffman coding 1\huffman coding 1\huffman coding 1\obj\Debug\huffman_coding_1.Properties.Resources.resources
+C:\Users\mohab\Desktop\complexity\New folder (7)\huffman coding 1\huffman coding 1\huffman coding 1\obj\Debug\huffman coding 1.csproj.GenerateResource.Cache

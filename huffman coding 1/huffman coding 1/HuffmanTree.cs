@@ -70,7 +70,6 @@ namespace huffman_coding_1
             }
            
         }
-        
         public void setHuffmanCode(Node node, string str)
         {
             if (node.Left == null || node.Right == null)
@@ -79,14 +78,12 @@ namespace huffman_coding_1
                 return;
             }
             else
-            {
-                //recursion
+            { //recursion
                 setHuffmanCode(node.Left, str + "0");
                 setHuffmanCode(node.Right, str + "1");
             }
 
         }
-
         public void Decode(string compressed)
         {
             bool flag = false;
@@ -110,9 +107,7 @@ namespace huffman_coding_1
                 {
                     decoded += ptr.Data;
                     flag = true;
-                }
-            }
-        }
+                }  }}
         public Image Draw()
         {
             GC.Collect();// collects the unreffered locations on the memory
